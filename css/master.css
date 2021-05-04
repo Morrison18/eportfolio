@@ -1,5 +1,17 @@
-.logo-container div { display: block; margin-left: auto; margin-right: auto; width: 50%; } 
+.logo-container div { 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 50%; 
+} 
 
-.logo { display: block; margin-left: auto; margin-right: auto; width: 50%; } 
+.logo { 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 50%; 
+} 
 
-.name h1 { text-align: center; }
+.name h1 { 
+    text-align: center; 
+}
